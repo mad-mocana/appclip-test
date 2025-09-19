@@ -1,0 +1,18 @@
+{
+    "appclips": {
+        "apps": [
+            "AM2MPXSESN.com.sectoralarm.SitmanAlarm.Clip"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "AM2MPXSESN.com.sectoralarm.SitmanAlarm.Clip",
+                "paths": [
+                    "/appclip/*"
+                ]
+            }
+        ]
+    }
+}
